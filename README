@@ -1,0 +1,3 @@
+HistoTree is a extenstion for Google's Chrome web broswer that creates a visual graph of the websites that the user visits.
+The user will then be able to view and navigate to any website they have previously visited.
+The extesntion will map in the websites that the users visits in a horizontal tree structure, with recently visited pages towards the top and older pages towards the bottom.
