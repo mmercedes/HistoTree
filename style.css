@@ -1,0 +1,14 @@
+.multi_bg{
+   background-image: url("images/logoClear.png");
+	background-size:8%;
+   background-position: right bottom; /*Positioning*/
+   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+}
+
+#frame {
+    height: 1080px; /* new height (400 * (1/0.8) ) */
+    width: 1920%; /* new width (100 * (1/0.8) )*/
+
+    transform: scale(0.33); 
+    transform-origin: 0 0;
+}
